@@ -1299,6 +1299,10 @@ mjx-container svg:focus {
 .about-icons > a > i {
   font-size: 1.5rem;
 }
+.spider-wrapper {
+  width: 100%;
+  text-align: center;
+}
 .category-tree-list {
   font-size: 1rem;
   list-style-type: circle;
